@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build/
+.npm/
+.npmrc
+.env
+.env.local
+.env.development
+.env.production
